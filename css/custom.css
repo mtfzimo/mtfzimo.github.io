@@ -416,7 +416,7 @@ body.night .user-info-navbar .user-info-menu > li > a:hover {
 
 /* 鼠标图标 -----------------------------------------------------------------------开始 */
 body {
-  cursor: url(https://s2.loli.net/2023/01/29/HThvpQxrUen4Owm.png), default !important;
+  cursor: url(https://s2.loli.net/2023/05/23/fdNexXBkG72Tst8.png), default !important;
 }
 
 /*i标签，a标签，按钮，头部的导航栏，网址卡片，底栏链接*/
@@ -425,7 +425,7 @@ a:hover,
 button:hover,
 #nav .site-page:hover,
 .xe-widget.xe-conversations.box2.label-info {
-  cursor: url(https://s2.loli.net/2023/01/29/HThvpQxrUen4Owm.png),
+  cursor: url(https://s2.loli.net/2023/05/23/fdNexXBkG72Tst8.png),
     pointer !important;
 }
 
@@ -433,7 +433,7 @@ button:hover,
 #footer-wrap a:hover,
 #pagination .page-number:hover,
 input#txt {
-  cursor: url(https://s2.loli.net/2023/01/29/HThvpQxrUen4Owm.png),
+  cursor: url(https://s2.loli.net/2023/05/23/fdNexXBkG72Tst8.png),
     pointer !important;
 }
 /* 鼠标图标 -----------------------------------------------------------------------结束 */
