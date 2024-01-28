@@ -56,11 +56,11 @@ var OriginTitle = document.title;
 var titleTime;
 document.addEventListener('visibilitychange', function () {
 	if (document.hidden) {
-		$('[rel="icon"]').attr('href', "/img/favicon.ico");
+		$('[rel="icon"]').attr('href', "/img/newTransNav.svg");
 		document.title = '(つェ⊂) 你脸上有点东西~~';
 		clearTimeout(titleTime);
 	} else {
-		$('[rel="icon"]').attr('href', "/img/favicon.ico");
+		$('[rel="icon"]').attr('href', "/img/newTransNav.svg");
 		document.title = '(*´∇｀*) 有点可爱~~  ' + OriginTitle;
 		titleTime = setTimeout(function () {
 			document.title = OriginTitle;
