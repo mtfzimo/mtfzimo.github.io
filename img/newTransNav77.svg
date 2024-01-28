@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="1321.585 353.585 1452.83 1452.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5acdf9;
+        stroke: #5acdf9;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 30px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f6a8b6;
+        stroke: #f6a8b6;
+      }
+    </style>
+  </defs>
+  <path id="直线_2_拷贝_3" data-name="直线 2 拷贝 3" class="cls-1" d="M1806.44,825.293l0.5-.134,254.61,949.691-0.5.14Z"/>
+  <path id="直线_2_拷贝_2" data-name="直线 2 拷贝 2" class="cls-2" d="M2059.84,1775.93l-0.5-.14L2313.95,826.1l0.5,0.135Z"/>
+  <path id="直线_2" data-name="直线 2" class="cls-1" d="M2061.37,388.651l0.51-.134,254.6,949.693-0.5.14Z"/>
+  <path id="直线_2_拷贝" data-name="直线 2 拷贝" class="cls-2" d="M2063.3,387.839l0.5,0.134-254.6,949.7-0.51-.14Z"/>
+  <path id="直线_2_拷贝_4" data-name="直线 2 拷贝 4" class="cls-1" d="M1361.36,1083.64l-0.13-.5,949.68-254.613,0.14,0.5Z"/>
+  <path id="直线_2_拷贝_5" data-name="直线 2 拷贝 5" class="cls-2" d="M1360.55,1081.71l0.14-.5,949.68,254.61-0.13.5Z"/>
+  <path id="直线_2_拷贝_6" data-name="直线 2 拷贝 6" class="cls-2" d="M2753.87,1080.6l-0.14.5L1806.02,819.215l0.14-.5Z"/>
+  <path id="直线_2_拷贝_7" data-name="直线 2 拷贝 7" class="cls-1" d="M2760.42,1082.57l0.14,0.5-949.69,254.61-0.13-.51Z"/>
+</svg>

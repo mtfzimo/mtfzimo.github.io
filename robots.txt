@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /about_website/
+
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /img/
+
+Sitemap: https://www.transnav.org/sitemap.xml
