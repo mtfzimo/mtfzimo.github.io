@@ -1,8 +1,7 @@
 User-agent: *
 Allow: /
-Allow: /about_website/
 
-
+Disallow: /hello-world.html
 Disallow: /js/
 Disallow: /css/
 Disallow: /lib/
